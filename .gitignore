@@ -1,5 +1,4 @@
 .sanal_ortam/
 __pycache__/
 *.joblib
-veri_seti.csv
-deneme_tahmin.py
+
